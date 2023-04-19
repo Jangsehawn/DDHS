@@ -7,9 +7,11 @@
 논문은 아래 링크에 공개가 되어있지만 코드는 구현되어 있지 않아 직접 구현해보았습니다
 
 <논문 링크>
+
 https://ieeexplore.ieee.org/document/9723474
 
 <논문 리뷰 세미나>
+
 http://dsba.korea.ac.kr/seminar/?mod=document&pageid=1&keyword=imbal&uid=2575
 
 ddhs_v2 : large class, small class 에서 추출 비율을 하이퍼 파라미터로 받아 최적화 할 수 있도록 구현, 파리미터 별 디폴트 옵션 설정 

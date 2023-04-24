@@ -15,3 +15,5 @@ https://ieeexplore.ieee.org/document/9723474
 http://dsba.korea.ac.kr/seminar/?mod=document&pageid=1&keyword=imbal&uid=2575
 
 ddhs_v2 : large class, small class 에서 추출 비율을 하이퍼 파라미터로 받아 최적화 할 수 있도록 구현, 파리미터 별 디폴트 옵션 설정 
+
+ddhs_v3 : 출력된 값이 정규화되면서 같은 값으로 출력되는 에러 해결
